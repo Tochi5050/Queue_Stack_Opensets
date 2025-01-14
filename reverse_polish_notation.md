@@ -16,3 +16,4 @@ There are two methods of defining how to use operators initially defined as stri
             "*": lambda a, b: a * b,
         }
 
+We can always push back into a stack. 
